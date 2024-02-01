@@ -10,10 +10,6 @@ var adsterralElements = document.getElementsByClassName("robi");
 for (var i = 0; i < adsterralElements.length; i++) {
     adsterralElements[i].href = robi;
 }
-var adsterralElements = document.getElementsByClassName("tl");
-for (var i = 0; i < adsterralElements.length; i++) {
-    adsterralElements[i].href = tl;
-}
 var adsterralElements = document.getElementsByClassName("artl");
 for (var i = 0; i < adsterralElements.length; i++) {
     adsterralElements[i].href = artl;
